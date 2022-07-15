@@ -1,2 +1,1 @@
-# madelinelhenry.github.io
-TESTING
+# sass-bootstrap-template
