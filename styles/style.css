@@ -1,0 +1,22 @@
+html{
+	font-family: 'Trispace', sans-serif;
+	font-size: 10px; 
+	background-color: #FABAAC;
+}
+h1 {
+  font-size: 50px;
+  text-align: center;
+  margin: 0;
+  padding: 20px 0;
+  color: #00539F;
+  text-shadow: 3px 3px 1px black;
+}
+p, li, a {
+  font-size: 25px;
+  line-height: 2;
+  letter-spacing: 1px;
+}
+img {
+  display: block;
+  margin: 0 auto;
+}
